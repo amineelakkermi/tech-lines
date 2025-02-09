@@ -1,0 +1,140 @@
+{ 
+  "hero": {
+    "title": "Tech Lines Innovative & Reliable Tech Solutions",
+    "text": "At Tech Lines, we are committed to providing excellent services to our customers, and we are confident that we will achieve the best results for you .",
+    "buttonDiscover": "Discover more",
+    "buttonContact": "Contact us"
+  },
+  "about": {
+    "subtitle": "About us",
+    "text": " Is a national facility specializing in the supply, planning, implementation, operation, and maintenance of smart control and automation systems, audio, visual, and security systems. We consider you as our partners, and therefore we are committed to providing you with integrated, reliable, and innovative solutions that meet your needs and satisfy your expectations",
+    "title": "Who We Are"
+  },
+  "team": {
+    "title": "Our Team",
+    "text": "We have a specialized and professional team of engineers, technicians, and consultants. This team designs, installs, and maintains your projects by the highest standards of accuracy and excellence"
+  },
+  "tools": {
+   "title": "Our Tools",
+   "text": " We use the latest technologies, the best equipment, and the most efficient methods to ensure the quality and efficiency of systems to achieve the best results"
+  },
+  "experience": {
+    "title": "Our Experience",
+    "text": "We have extensive experience in implementing integrated systems for various types of projects and facilities, such as mosques, hotels, airports, hospitals, schools, theaters, stadiums, and more"
+  },
+  "offer": {
+    "title": "What We Offer",
+    "text": " We conduct studies and tests for each project individuallyto identify its specific needs and provide the most suitableand efficient solutions. We also provide technical andconsulting support, supply, installation, and maintenance ."
+  },
+  "vision": {
+   "title": " Our Vision",
+   "text1": "To be a leading organization in the field of system automation, audio systems, security, and intelligent control, to contribute to achieving the Vision of Saudi Arabia 2030 vision by",
+   "text2": "Supporting the transformation of the Kingdom into a knowledge-based and digital society",
+   "text3": "Contributing to diversifying sources of income and increasing productivity, efficiency, and quality in various economic sectors",
+   "text4": "Participating in promoting national identity, Islamic values, culture, and history"
+  },
+  "message": {
+   "title": "Our Message",
+   "text": "At Technology Lines, we strive to be your strategic partner in your journey to achieve your goals. Therefore, we believe that modern technology is the key to sustainable development in the Kingdom of Saudi Arabia.Therefore, we are committed to providing our services by international quality standards,to ensure your satisfaction and achieve your goals"
+  },
+  "value": {
+   "title": "Our Values",
+   "text1": "We are committed to our core values, which contribute to the growth of our business",
+   "text2": "We comply with religious and national values in our business dealings",
+   "text3": "We strive to achieve the highest levels of integrity and honesty in our business",
+   "text4": "We strive for the highest levels of excellence in our projects, in the quality of our services, and in the best products we offer",
+   "text5": "We are committed to our social responsibility to society, by supporting charitable, humanitarian, and social awareness projects",
+   "text6": "We are committed to disclosing all relevant information to our customers and partners"
+  },
+  "standards": {
+    "title": "Standards",
+    "text1": "Tech Lines is committed to the following standards in all its operations, to ensure the provision of distinguished services to its customers:",
+    "text2": "Efficiency: We use the best means, competencies, the latest technologies, and the best equipment to ensure the provision of our services with high efficiency.",
+    "text3": "Innovation: We work to innovate ways to implement projects in a better and more innovative way every time.",
+    "text4": "Quality: We strive to provide high-quality services that meet your needs and goals.",
+    "text5": "Sustainability: We are committed to sustainability in all our operations, by providing long-lasting, renewable products that can be developed and expanded without the need to replace them in each operation."
+  },
+  "goals": {
+    "title": "Our Goals",
+    "text1": " Innovation: We are constantly striving to exploit the latest innovations and what technology has reached in products and implementation methods",
+    "text2": "Excellence: In quality and achievement in all our services, by adhering to international quality standards, and using the latest technologies and the best equipment",
+    "text3": "Growth: Through expansion into the local and regional markets and providing a wider range of services",
+    "text4": " Sustainable development: Lines of Technology seeks to contribute to sustainable development in the Kingdom of Saudi Arabia, by using renewable energy sources, and reducing waste"
+  },
+  "beneficiaires": {
+   "title": "Bénéficiares",
+   "text1": "Mosques and prayer halls",
+   "text2": " Educational institutions : schools and universities",
+   "text3": " Medical centers and hospitals ",
+   "text4": "Meeting halls and conference venues",
+   "text5": "Hajj camps ",
+   "text6": "Commercial centers and complexes",
+   "text7": " Airports, sports stadiums, and others"
+  },
+  "numbers": {
+    "title": "  Projects in Numbers"
+   },
+   "works": {
+   "title": "Project pictures"
+  },
+  "fields": {
+   "title": "Our Fields"
+  },
+  "partners": {
+    "title": "Our Partners"
+   },
+   "tasks": {
+    "title": "Our Tasks"
+   },
+
+  "services": {
+    "title": "Our Services"
+  },
+  "services2": {
+    "title": "INDUSTRIAL & DECORATIVE FLOORING"
+  },
+  "projects": {
+    "title": "Our Projects"
+  },
+
+  "AllServices": {
+   "text": "All Services"
+  },
+  "form": {
+   "name": "Name",
+   "email": "Email",
+   "message": "Message",
+   "send": "Send"
+  },
+   "footer": {
+    "description": "We will spare no effort to achieve these goals through hard work . and commitment to our vision, mission, and values",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact",
+    "touch": "Get in touch",
+    "whatsapp": "Whatsapp",
+    "socialMedia": "Social Media",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "copyright": "© Tech Lines. All rights reserved."
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+}
